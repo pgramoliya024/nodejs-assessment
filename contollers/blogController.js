@@ -95,7 +95,4 @@ exports.deleteBlog = async (req, res, next) => {
         res.send('user not exist or has no permission');
     }
 
-    
-
-
 }
